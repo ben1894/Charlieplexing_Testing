@@ -21,8 +21,8 @@ unsigned char leds[12][3]
   {controlPins[2],controlPins[3],false},
   
   {controlPins[3],controlPins[0],false},
+  {controlPins[3],controlPins[1],false},
   {controlPins[3],controlPins[2],false},
-  {controlPins[3],controlPins[3],false},
 };
 
 void setup() 
